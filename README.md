@@ -1,12 +1,15 @@
 # HR-Analytics-Dashboard-for-Employee-Performance-and-Retention
 
-This project involves the development of an HR Analytics Dashboard using Power BI to provide insightful data visualizations for the HR team. The dashboard focuses on improving employee performance and retention by offering a detailed analysis of various HR metrics. Key features of the dashboard include:
+**Objective:**
+The objective of this project was to develop an HR Analytics Dashboard using Power BI to provide comprehensive insights for the HR team, with the ultimate goal of enhancing employee performance and reducing attrition rates.
 
-Data Cleaning & Processing: Ensuring accurate and clean data using Power Query in Power BI.
-Interactive Dashboard: Built with charts, graphs, and cards displaying metrics such as attrition rate (16.1%) and active employees.
-Data Visualization: Utilizing Power BI's capabilities to create meaningful visual representations of HR data.
-DAX Calculations: Implementing measures and calculations to derive key insights.
-Filters and Slicers: Enabling dynamic data interaction and filtering for customized views.
-Exporting Dashboard: Providing options to export the dashboard for reporting purposes.
+**Skills Utilized:**
+- **Dashboard Setup**: Structured and designed the dashboard layout to ensure clarity and ease of use.
+- **Data Import and Processing**: Imported HR data into Power BI and cleaned it using Power Query to ensure accuracy and consistency.
+- **Data Visualization**: Created visually appealing and informative charts, graphs, and cards to represent key HR metrics effectively.
+- **DAX Formulas**: Utilized DAX (Data Analysis Expressions) to implement advanced calculations and derive meaningful insights from the data.
+- **Interactive Features**: Implemented interactive features such as filters and slicers to enable dynamic data exploration and analysis.
+- **Exporting Functionality**: Provided options for exporting the dashboard to enable sharing and reporting to stakeholders.
 
-This project leverages various technical skills including Power BI dashboard setup, data import, data visualization, and the use of DAX for creating measures and calculations. The resulting dashboard helps the HR team make data-driven decisions to enhance employee performance and reduce attrition.
+**Key Features:**
+The HR Analytics Dashboard offers a comprehensive view of critical HR metrics, including attrition rate (16.1%) and active employee counts. With its user-friendly interface and interactive features, the dashboard empowers HR professionals to make data-driven decisions and take proactive measures to improve employee performance and retention.
