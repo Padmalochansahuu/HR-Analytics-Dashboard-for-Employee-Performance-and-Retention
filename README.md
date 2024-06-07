@@ -14,4 +14,4 @@ The objective of this project was to develop an HR Analytics Dashboard using Pow
 **Key Features:**
 The HR Analytics Dashboard offers a comprehensive view of critical HR metrics, including attrition rate (16.1%) and active employee counts. With its user-friendly interface and interactive features, the dashboard empowers HR professionals to make data-driven decisions and take proactive measures to improve employee performance and retention.
 
-[HR ANALYTICS.pdf](https://github.com/user-attachments/files/15727508/HR.ANALYTICS.pdf)
+![HR ANALYTICS.pdf](https://github.com/user-attachments/files/15727508/HR.ANALYTICS.pdf)
